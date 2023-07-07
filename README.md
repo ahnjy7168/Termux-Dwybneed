@@ -6,7 +6,8 @@ annoying to manually download the necessary files one by one.
 
 How to use:
 -----------------------------------------
-./Dwybneed.sh 
+cd Termux-Dwybneed
+python Dwybneed-install.py 
 (Since pkg update and pkg upgrade are done 
 automatically, it is okay not to do so.)
 Run it and everything you need will be downloaded.
