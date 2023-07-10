@@ -2,6 +2,7 @@ import os
 import random
 from time import sleep
 
+os.system("pip install tqdm")
 os.system("clear")
 print("""
  ____  ____                 _   _   _             _
